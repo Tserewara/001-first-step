@@ -10,6 +10,11 @@ const projects = [
     title: "002 - Simple To-do",
     date: "2025-07-21",
     link: "https://002-simple-todo.vercel.app/"
+  },
+  {
+    id: 3,
+    title: "003 - To-do with redux",
+    link: "003-todo-with-redux.vercel.app"
   }
 ];
 
